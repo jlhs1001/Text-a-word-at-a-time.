@@ -21,5 +21,6 @@ def print_sentence(sentence, color=Fore.WHITE):
 
 
 '''Print each word, one at a time, with custom colors and custom time'''
+# EXAMPLE
 
-print_sentence("let me do my work", Fore.RED)
+# print_sentence("let me do my work", Fore.RED)
